@@ -7,7 +7,7 @@ import static ratpack.groovy.Groovy.ratpack
 ratpack {
     handlers {
         get {
-		//fuck you!dfdfdfdfd
+		//fuck you!
             render "Hello World!"
         }
         get(":name") {
